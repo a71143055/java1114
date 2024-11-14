@@ -13,5 +13,9 @@ public class MainIphone {
         iPhone.playMusic("APT");
         iPhone.sendAirdrop("사진");
         iPhone.sendMessage("수능대박나라!");
+
+        Alarm alarm = iPhone;
+        alarm.beep();
+        alarm.playMusic("Sticky");
     }
 }
