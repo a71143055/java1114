@@ -1,4 +1,4 @@
-package chp11;
+package chp11.ex11_1_2_3;
 
 public class MainIphone {
     public static void main(String[] args) {
